@@ -1,0 +1,143 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl Aft_Hull
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Aft_Hull_baseColor.jpeg
+
+newmtl Black
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.027451 0.027451 0.027451
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Black2
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Cockpit
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Cockpit_baseColor.jpeg
+
+newmtl Fore_Hull_Side
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Fore_Hull_Side_baseColor.jpeg
+
+newmtl Fore_Hull_Top
+Ns 159.999981
+Ka 0.982914 0.982914 0.982914
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Fore_Hull_Top_baseColor.jpeg
+
+newmtl Hatch
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Hatch_baseColor.jpeg
+
+newmtl Logo_Side
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Logo_Side_baseColor.jpeg
+
+newmtl Ribs
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Ribs_baseColor.jpeg
+
+newmtl Side
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Side_baseColor.jpeg
+
+newmtl Window
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Window_baseColor.jpeg
+
+newmtl Wing
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\Wing_baseColor.jpeg
+
+newmtl material
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\orion_2001_a_space_odyssey\\textures\\material_baseColor.jpeg

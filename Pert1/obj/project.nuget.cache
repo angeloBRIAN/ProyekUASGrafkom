@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJxkY3BCxS0Rf98AJWb+z/ELYrPhQviv5eM/tjxc2Gv+QLZvtSI3HthxQM+9sK1iyUYNcXQni7OaOMA+spfjeg==",
+  "success": true,
+  "projectFilePath": "F:\\grafkom\\Grafkom B\\pert1\\backup_pert1 - Copy\\Pert1\\Pert1\\Pert1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk\\4.6.7\\opentk.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.compute\\4.6.7\\opentk.compute.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.core\\4.6.7\\opentk.core.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.graphics\\4.6.7\\opentk.graphics.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.input\\4.6.7\\opentk.input.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.mathematics\\4.6.7\\opentk.mathematics.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.openal\\4.6.7\\opentk.openal.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.windowing.common\\4.6.7\\opentk.windowing.common.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.windowing.desktop\\4.6.7\\opentk.windowing.desktop.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.7\\opentk.windowing.graphicslibraryframework.4.6.7.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Angelo Brian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

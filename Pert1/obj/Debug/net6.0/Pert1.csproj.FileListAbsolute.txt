@@ -1,0 +1,144 @@
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Pert1.exe
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Pert1.deps.json
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Pert1.runtimeconfig.json
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Pert1.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\ref\Pert1.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Pert1.pdb
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.AssemblyReference.cache
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfoInputs.cache
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfo.cs
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CoreCompileInputs.cache
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\ref\Pert1.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.pdb
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.genruntimeconfig.cache
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CopyComplete
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\ref\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Pert1.exe
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Pert1.deps.json
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Pert1.runtimeconfig.json
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\ref\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Pert1.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.AssemblyReference.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfoInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfo.cs
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CoreCompileInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CopyComplete
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Pert1\obj\Debug\net6.0\Pert1.genruntimeconfig.cache
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.exe
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.deps.json
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.runtimeconfig.json
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\ref\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.AssemblyReference.cache
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfoInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfo.cs
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CoreCompileInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CopyComplete
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\ref\Pert1.dll
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.genruntimeconfig.cache
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.exe
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.deps.json
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.runtimeconfig.json
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Pert1.pdb
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Compute.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Core.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Graphics.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Input.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Mathematics.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.OpenAL.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.AssemblyReference.cache
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.GeneratedMSBuildEditorConfig.editorconfig
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfoInputs.cache
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.AssemblyInfo.cs
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CoreCompileInputs.cache
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.csproj.CopyComplete
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\refint\Pert1.dll
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.pdb
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\Pert1.genruntimeconfig.cache
+F:\grafkom\Grafkom B\pert1\backup_pert1 - Copy\Pert1\Pert1\obj\Debug\net6.0\ref\Pert1.dll

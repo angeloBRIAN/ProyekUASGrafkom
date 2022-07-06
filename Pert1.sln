@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pert1", "Pert1\Pert1.csproj", "{9C771F4A-ACAF-4D42-91EA-19F5E0676422}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common\Common.csproj", "{1F27D28E-DAD5-4071-BD8D-8DDCE2776E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C771F4A-ACAF-4D42-91EA-19F5E0676422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C771F4A-ACAF-4D42-91EA-19F5E0676422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C771F4A-ACAF-4D42-91EA-19F5E0676422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C771F4A-ACAF-4D42-91EA-19F5E0676422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F27D28E-DAD5-4071-BD8D-8DDCE2776E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F27D28E-DAD5-4071-BD8D-8DDCE2776E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F27D28E-DAD5-4071-BD8D-8DDCE2776E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F27D28E-DAD5-4071-BD8D-8DDCE2776E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA8B1B7-3211-444D-9B73-6C9224A0BB5C}
+	EndGlobalSection
+EndGlobal

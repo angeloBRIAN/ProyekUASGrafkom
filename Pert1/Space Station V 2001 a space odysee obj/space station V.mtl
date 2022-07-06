@@ -1,0 +1,130 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl Docking_bay
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\Docking_bay_baseColor.png
+
+newmtl Material_25
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\Material_25_baseColor.jpeg
+
+newmtl Material_26
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\Material_26_baseColor.jpeg
+
+newmtl Wheel01
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\block_baseColor.jpeg
+
+newmtl Wheel_1
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\Wheel_1_baseColor.jpeg
+
+newmtl block
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\block_baseColor.jpeg
+
+newmtl cable_brackets
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.568627 0.584314 0.513725
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl cables
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.549020 0.564706 0.568627
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl hubface
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\hubface_baseColor.png
+
+newmtl spoke_support
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.486275 0.411765 0.411765
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl spokes
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\uas grafkom maybe 2001\\space_station_v_2001_a_space_odyssey\\textures\\spokes_baseColor.png
+
+newmtl wheel_girders
+Ns 159.999981
+Ka 1.000000 1.000000 1.000000
+Kd 0.709804 0.215686 0.117647
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
